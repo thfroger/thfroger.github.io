@@ -33,3 +33,5 @@ Je veux développer des compétences en... full stack php. Je veux être capable
 ## Demain et après demain
 
 Mon projet professionnel, c'est... encore flou. Cette formation va me permettre de trouver ma voie mais j'aimerai beaucoup travailler à l'étranger.
+
+[Me contacter](contact.html)
