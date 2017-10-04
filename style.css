@@ -73,7 +73,7 @@ body {
 
 .bun-bottom {
   height: 35px;
-  width: 60%;
+  width: 100%;
   background: #e5b05a;
   border-radius: 20px 20px 40px 40px;
   border-top: solid 8px rgba(0,0,0,.1)
