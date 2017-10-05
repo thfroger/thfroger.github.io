@@ -13,7 +13,7 @@ body {
 }
 
 /* This center-aligns all of the ingredients */
-.burger > div {
+.burger > p {
   margin: 0 auto;
 }
 
