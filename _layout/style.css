@@ -1,0 +1,122 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  padding: 25px 20px;
+  margin: 0;
+  text-align: center;
+  display: inline-block;
+  flex-flow: column row-reverse;
+  justify-content: center;
+}
+
+header {
+	color: white;
+	height: 50vh;
+}
+
+footer {
+	height: 70vh;
+}
+
+header h1 {
+	margin-top: 25vh;
+}
+
+/* Set the maximum width of your burger */
+.burger {
+  max-width: 500px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 20vh;
+  opacity: 0.9;
+}
+
+/* This center-aligns all of the ingredients */
+.burger > p {
+  margin: 0 auto;
+}
+
+.bun-top {
+  height: 70px;
+  width: 70%;
+  background: #e5b05a;
+  border-radius: 100px 100px 20px 20px;
+  border-bottom: solid 10px rgba(0,0,0,.1);
+}
+
+.cheese {
+  height: 15px;
+  width: 70%;
+  background: #f2c120;
+  border-bottom: solid 2px rgba(0,0,0,.1);
+}
+
+.tomato {
+  height: 50px;
+  width: 70%;
+  background-color: #dd3710;
+  border-bottom: solid 2px rgba(0,0,0,.1);
+  text-align: center;
+}
+
+.meatball {
+  height: 60px;
+  width: 70%;
+  background: #74380d;
+  border-radius: 50px;
+  display: flex; 
+  vertical-align: top;
+}
+
+.patty {
+  height: 35px;
+  width: 70%;
+  background: #ad370b;
+  border-radius: 15px;
+  border-bottom: solid 2px rgba(0,0,0,.1);
+}
+
+.pickle {
+  height: 30px;
+  width: 70%;
+  background: #3ac67d;
+  border-radius: 0 0 100px 100px;
+  border-bottom: solid 10px #2d9961;
+}
+
+.onion {
+  width: 70%;
+  background-color: #a039bf;
+  border-top: dotted 30px rgba(255,255,255,.2);
+}
+
+.bun-bottom {
+  height: 35px;
+  width: 70%;
+  background: #e5b05a;
+  border-radius: 20px 20px 40px 40px;
+  border-top: solid 8px rgba(0,0,0,.1)
+}
+
+.plate {
+  height: 25px;
+  width: 70%;
+  background: #656565;
+  border-radius: 20px 20px 200px 200px;
+}
+
+p {
+  margin-bottom: auto;
+  margin-top: auto;
+}
+
+input {
+  text-align: center;
+}
+
+.card {
+	background : url("anemone-2791565_1920.jpg");
+	size: cover;
+	background-attachment: fixed;
+}
